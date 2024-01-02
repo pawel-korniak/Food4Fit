@@ -1,0 +1,40 @@
+= Food4Fit Diet Planner
+
+:icons: font
+
+== Table of Contents
+
+* <<#description, Description>>
+* <<#features, Features>>
+* <<#technologies, Technologies Used>>
+* <<#getting-started, Getting Started>>
+* <<#usage, Usage>>
+* <<#contribute, How to Contribute>>
+* <<#license, License>>
+
+== Description
+
+Food4Fit Diet Planner is a Java-based application designed to help users plan and manage their diet effectively. Whether you're looking to achieve fitness goals, lose weight, or maintain a healthy lifestyle, Food4Fit provides a user-friendly interface to create and track personalized diet plans.
+
+== Features
+
+* **Diet Plan Creation:** Create personalized diet plans based on nutritional goals.
+* **Food Database:** Extensive database of foods with nutritional information.
+* **Meal Tracking:** Log and track daily meals with nutritional details.
+* **Progress Monitoring:** Monitor and visualize progress towards dietary goals.
+
+== Technologies Used
+
+Food4Fit Diet Planner is developed using the following technologies:
+
+* Java
+* Spring Framework
+* Hibernate
+
+== Getting Started
+
+To run the Food4Fit Diet Planner locally, follow these steps:
+
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/your-username/Food4Fit.git
