@@ -9,8 +9,6 @@
 * <<#technologies, Technologies Used>>
 * <<#getting-started, Getting Started>>
 * <<#usage, Usage>>
-* <<#contribute, How to Contribute>>
-* <<#license, License>>
 
 == Description
 
@@ -37,4 +35,4 @@ To run the Food4Fit Diet Planner locally, follow these steps:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/Food4Fit.git
+git clone https://github.com/pawel-korniak/Food4Fit
